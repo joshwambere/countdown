@@ -19,8 +19,8 @@
   background-size: cover;
    
 }
-.socials > svg:hover{
-  fill: white
+.socials > a > svg:hover path{
+  fill: hsl(345, 95%, 68%)!important;
 }
 
 @media (prefers-reduced-motion: no-preference) {
